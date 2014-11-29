@@ -8,19 +8,24 @@ section {
 	margin: 20px 0;
 }
 
+/* Headers & body */
 h1 {
 	font-family: 'Alex Brush', cursive;
 	color: white;
+	margin-bottom: -10px;
+	font-size: 50px;
 }
 
 h2 {
 	font-family: 'Alex Brush', cursive;
 	color: white;
+	font-size: 30px;
 }
 
 h3 {
 	font-family: 'Raleway', sans-serif;
 	color: white;
+	margin-bottom: 7px;
 }
 
 em {
@@ -35,13 +40,40 @@ body {
 	background: url(../img/bg.png);
 }
 
+/* Color Squares */
+.color-1 {
+	background: ;
+}
+
+.color-2 {
+	background: ;
+}
+
+.color-3 {
+	background: ;
+}
+
+/* Pattern Squares */
+.pattern-1 {
+	background: url() no-repeat;
+}
+
+.pattern-2 {
+	background: url() no-repeat;
+}
+
+.pattern-3 {
+	background: url() no-repeat;
+}
+
+
 .color-1,
 .color-2,
 .color-3,
 .pattern-1,
 .pattern-2,
 .pattern-3 {
-	border: 1px solid #000;
+	border: 1px solid #FFF;
 	float: left;
 	margin: 0 10px;
 	height: 50px;
