@@ -42,24 +42,24 @@ body {
 
 /* Color Squares */
 .color-1 {
-	background: ;
+	background: #00EBE7;
 }
 
 .color-2 {
-	background: ;
+	background: #3FBAB9;
 }
 
 .color-3 {
-	background: ;
+	background: #FFF;
 }
 
 /* Pattern Squares */
 .pattern-1 {
-	background: url() no-repeat;
+	background: url(../img/bg.png) no-repeat;
 }
 
 .pattern-2 {
-	background: url() no-repeat;
+	background: url(../img/light_grey.png) no-repeat;
 }
 
 .pattern-3 {
