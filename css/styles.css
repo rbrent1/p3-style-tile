@@ -8,6 +8,33 @@ section {
 	margin: 20px 0;
 }
 
+h1 {
+	font-family: 'Alex Brush', cursive;
+	color: white;
+}
+
+h2 {
+	font-family: 'Alex Brush', cursive;
+	color: white;
+}
+
+h3 {
+	font-family: 'Raleway', sans-serif;
+	color: white;
+}
+
+em {
+	color: white;
+}
+
+p {
+	color: white;
+}
+
+body {
+	background: url(../img/bg.png);
+}
+
 .color-1,
 .color-2,
 .color-3,
