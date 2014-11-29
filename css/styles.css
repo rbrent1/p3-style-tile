@@ -25,20 +25,32 @@ h2 {
 h3 {
 	font-family: 'Raleway', sans-serif;
 	color: white;
-	margin-bottom: 7px;
+	margin-bottom: 6px;
 }
 
 em {
 	color: white;
+	font-family: 'Open Sans', sans-serif;
 }
 
 p {
 	color: white;
+	font-family: 'Open Sans', sans-serif;
 }
 
 body {
 	background: url(../img/bg.png);
 }
+
+hr {
+	background: #00EBE7;
+	height: 2px;
+	border: none;
+	width: 1000px;
+}
+
+
+
 
 /* Color Squares */
 .color-1 {
@@ -52,6 +64,10 @@ body {
 .color-3 {
 	background: #FFF;
 }
+
+
+
+
 
 /* Pattern Squares */
 .pattern-1 {
@@ -73,7 +89,7 @@ body {
 .pattern-1,
 .pattern-2,
 .pattern-3 {
-	border: 1px solid #FFF;
+	border: 2px solid #FFF;
 	float: left;
 	margin: 0 10px;
 	height: 50px;
