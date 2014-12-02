@@ -63,6 +63,14 @@ a:link {
 
 }
 
+a:visited {
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	text-align: center;
+	text-decoration: none;
+}
+
 
 
 
